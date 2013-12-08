@@ -1,0 +1,12 @@
+<h1>אהלן אהלן</h1>
+ActionController::Base
+<p>זה הפרוייקט השני בטטוריאל אונליין, נחמד מאוד</p>
+<p>Find me in app/views/welcome/index.html.erb</p>
+
+<h2><%= link_to 'users', 'users#show' %>
+<p>
+<%= link_to 'microposts', 'microposts#show' %>
+<p>
+<%= link_to 'מה עוד', '-' %>
+</h2>
+

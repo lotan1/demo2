@@ -1,0 +1,5 @@
+class WelcomeController < ApplicationController
+<h1>Hello, Rails!</h1>
+  def index
+  end
+end
